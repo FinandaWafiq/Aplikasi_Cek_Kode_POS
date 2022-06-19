@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894456109637",
+    "project_id": "cekkodeposnew",
+    "storage_bucket": "cekkodeposnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894456109637:android:11d4890be078697b04212c",
+        "android_client_info": {
+          "package_name": "com.example.loginkodepos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894456109637-v2bevvkts2rqkbmp05risk8gq65buuuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARilA73R3wuIyDnAlh66rqJxg9-DS1Frc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894456109637-v2bevvkts2rqkbmp05risk8gq65buuuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
